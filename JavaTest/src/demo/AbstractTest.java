@@ -11,6 +11,7 @@ public abstract class AbstractTest {
 	public void safety()
 	{
 		System.out.println("Please follow Safety");
+		System.out.println("developer checked out");
 	}
 	
 	public abstract void colour();
